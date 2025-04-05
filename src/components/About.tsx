@@ -9,16 +9,16 @@ const About = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
               Nossa História
             </h2>
-            <p className="text-lg text-gray-600 mb-6">
+            <p className="text-md text-gray-600 mb-6 text-justify">
               Fundada em 1990, a Igreja da Paz tem sido um farol de esperança em nossa
               comunidade. Nossa jornada começou com um pequeno grupo de fiéis e cresceu
               para se tornar uma família vibrante de crentes.
             </p>
-            <p className="text-lg text-gray-600 mb-6">
+            <p className="text-md text-gray-600 mb-6 text-justify">
               Nossos valores fundamentais são baseados no amor, na compaixão e no serviço
               ao próximo. Acreditamos que cada pessoa é única e especial aos olhos de Deus.
             </p>
-            <p className="text-lg text-gray-600">
+            <p className="text-md text-gray-600 text-justify">
               Hoje, continuamos comprometidos com nossa missão de espalhar a mensagem de
               Cristo e fazer a diferença em nossa comunidade através de diversos ministérios
               e programas sociais.

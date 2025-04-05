@@ -54,15 +54,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2 text-indigo-500" />
-                <span>Rua Example, 123 - Cidade</span>
+                <span>Bairro Inorade, ENAPP</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-indigo-500" />
-                <span>(11) 1234-5678</span>
+                <span>(+244) 924335636</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-indigo-500" />
-                <span>contato@igrejadapaz.com</span>
+                <span>adonaiccs@hotmail</span>
               </li>
             </ul>
           </div>
